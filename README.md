@@ -8,3 +8,5 @@
 * [notebooks/analyze.ipynb](notebooks/analyze.ipynb) - Jupyter-ноутбук с расчётами
 * notebooks/output.xlsx - промежуточная Excel-таблица с результатами вычислений
 * [notebooks/Отчёт.xlsx](notebooks/Отчёт.xlsx) - отчёт для руководителя отдела сопровождения (формируется автоматически на основании output.xlsx)
+
+> Уровень задания соответствует Junior+/pre-Middle Data Analyst
